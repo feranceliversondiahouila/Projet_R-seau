@@ -1,6 +1,5 @@
 # Projet_Réseau
 
-# Menmbre du groupe 
 # **SAE12** : Mettre en oeuvre un réseau informatique <lr>
 <br>
 <!--OBJECTIVE-->
