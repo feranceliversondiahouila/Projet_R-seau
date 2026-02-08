@@ -207,15 +207,15 @@ configure terminal
 ## **Image** <br>
 
 ### **Image illustrative de la maquette**
-![](Maquette.png)<br>
+![](/assets/Maquette.png)<br>
 <br>
 
 ### **Maquette sur cisco**
-![](maquette_cisco.png)<br>
+![](/assets/maquette_cisco.png)<br>
 <BR>
 
 ### **Diagramme de Gant**
-![](gant.png)
+![](/assets/gant.png)
 <br>
 <br>
 <br>
@@ -287,7 +287,7 @@ interface vlan 50<br>
  no shutdown<br>
 
 ### **Configurationn du serveur apache**
-![](APACHE.jpeg)
+![](/assets/APACHE.jpeg)
 ### **[Documentation utilisée pour l'installation du serveur appache](https://fr.linux-console.net/?p=14996)**
 
 ### **Installation de curl**
