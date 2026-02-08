@@ -287,6 +287,7 @@ interface vlan 50<br>
  no shutdown<br>
 
 ### **Configurationn du serveur apache**
+![](APACHE.JPEG)
 ### **[Documentation utilisée pour l'installation du serveur appache](https://fr.linux-console.net/?p=14996)**
 
 ### **Installation de curl**
